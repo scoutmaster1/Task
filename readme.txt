@@ -38,21 +38,21 @@ View:
 
 Evaluation:
     1. Accuracy
-         a. We'll evaluate task coverage and desired results as mentioned in the task, along with end user experience.
-         b. DB Structuring
-         c. UI/UX Experience
-    2. Performance
+         a. We will evaluate task coverage and desired results as mentioned in the task, along with end user experience.
+    2. DB Structuring
+    3. UI/UX Experience
+    4. Performance
         a. Loading time, 
         b. API response time
         c. EXTRA CREDIT: Best optimization
     3. Code Quality
-        a. We're looking for clear, easy to understand code.
-        b. Write code that makes your thinking algorithm as obvious as possible.
+        a. We are looking for clear, easy to understand code.
+        b. Write code that makes your thinking algorithm as obvious and as easy to understand as possible.
         c. Prioritize readability over cleverness.
-        d. We care less that you can code a solution to this problem in one line, and more that we are able to easily follow your code.
+        d. Being able to code a solution in few lines of code is not a measure of success, code maintainability is. 
         e. Scalable and Extendable Code
     4. Time
-        a.  Task should be completed in 4 hours.
+        a. This task should typically require not more than 4 hours.
         
         
 Step 0:
